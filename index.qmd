@@ -1,15 +1,12 @@
 ---
 title: "Bem-vindo!"
 author: "Higor Palote Volpi"
-output: html_document
-css: styles.css
+format: html
 ---
 
-<div class="foto-perfil">
-  <img src="images/higor.jpg" alt="Minha Foto">
+<div style="text-align: center;">
+  <img src="images/higor.jpg" alt="Foto de Higor Palote Volpi" width="300" style="border-radius: 50%;">
 </div>
-
-<!-- | ![](images/higor.jpg)[]{width=75px} -->
 
 # Sobre Mim 👨‍💻  
 
