@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "web-project",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projetos pessoais.",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Projetos pessoais.\nEm desenvolvimento\n\n\nProjetos com a Faculdade (FAE - Centro Univesitário).\nEm desenvolvimento"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "index.html#formação-acadêmica",
+    "href": "index.html#formação-acadêmica",
+    "title": "Bem-vindo!",
+    "section": "🎓 Formação Acadêmica",
+    "text": "🎓 Formação Acadêmica\n\nBacharelado em Administração - FAE Centro Universitário, 2022 - Finalizado\n\nBacharelado em Ciência de Dados - FAE Centro Universitário, 2023 - Presente"
+  },
+  {
+    "objectID": "index.html#habilidades",
+    "href": "index.html#habilidades",
+    "title": "Bem-vindo!",
+    "section": "🛠️ Habilidades",
+    "text": "🛠️ Habilidades\n\nLinguagens: Python, SQL, Vue.js, JavaScript, HTML, CSS\n\nBibliotecas: Pandas, Polars"
+  },
+  {
+    "objectID": "index.html#experiência-profissional",
+    "href": "index.html#experiência-profissional",
+    "title": "Bem-vindo!",
+    "section": "💼 Experiência Profissional",
+    "text": "💼 Experiência Profissional\n\nAuxiliar de Desenvolvimento | Aliança Sul | 2024 - Presente\n\n🖥️ Desenvolvimento de painéis com Vue3.js.\n\n🔍 Tratamento de dados com Python.\n\n🌐 APIs e rotas com FastAPI.\n\n📦 Gerenciamento de containers com Docker.\n\n🗄️ Consultas SQL e manipulação de banco de dados.\n\n🛠️ Experiência com comandos básicos de Git."
+  },
+  {
+    "objectID": "index.html#certificações",
+    "href": "index.html#certificações",
+    "title": "Bem-vindo!",
+    "section": "📜 Certificações",
+    "text": "📜 Certificações\n\nDesenvolvimento Web com Vue.js - Udemy (Em Curso)\n\nCurso de Python 3 - Udemy (Em curso)\n\nCurso de Inglês - British and American (Em Curso)"
+  },
+  {
+    "objectID": "index.html#contato",
+    "href": "index.html#contato",
+    "title": "Bem-vindo!",
+    "section": "📬 Contato",
+    "text": "📬 Contato\nVocê pode me encontrar no LinkedIn: www.linkedin.com/higor-volpi ou me enviar um e-mail para: higorpv2001@gmail.com"
   }
 ]

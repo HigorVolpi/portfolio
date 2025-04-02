@@ -1,1 +1,26 @@
-/* css styles */
+/* Estilo para o cabeçalho */
+.navbar {
+    background-color: #e1e0e0; /* Cor de fundo cinza claro */
+    color: #333; /* Cor do texto em um tom escuro */
+}
+
+.navbar a {
+    color: #333; /* Cor dos links */
+}
+
+/* .navbar a:hover {
+    color: #2a5fff; /* Cor dos links ao passar o mouse
+} */
+
+.foto-perfil {
+    text-align: center; /* Centraliza a imagem */
+    margin-top: 20px;
+}
+
+.foto-perfil img {
+    width: 250px;  /* Defina um tamanho fixo para manter o círculo */
+    height: 250px; /* Deve ser igual à largura para um círculo perfeito */
+    border-radius: 50%; /* Garante que a imagem fique completamente circular */
+    object-fit: cover; /* Recorta a imagem para preencher o círculo sem distorção */
+    border: 1px solid #ccc; /* Opcional: borda sutil para um efeito mais clean */
+}
