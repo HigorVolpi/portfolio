@@ -3,12 +3,13 @@ project:
   output-dir: "."
 
 website:
-  title: "web-project"
+  title: "Higor Palote Volpi"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: "Home"
+        href: index.html
+      - text: Projetos
+        href: projects.html
 
 format:
   html:

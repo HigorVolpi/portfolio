@@ -1,7 +1,46 @@
 ---
-title: "web-project"
+title: "Bem-vindo!"
+author: "Higor Palote Volpi"
+output: html_document
+css: styles.css
 ---
 
-This is a Quarto website.
+<div class="foto-perfil">
+  <img src="images/higor.jpg" alt="Minha Foto">
+</div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<!-- | ![](images/higor.jpg)[]{width=75px} -->
+
+# Sobre Mim 👨‍💻  
+
+Olá, me chamo **Higor Palote Volpi**, sou estudante de **Ciência de Dados** e interessado em **Desenvolvimento de Software**. Meu objetivo é me profissionalizar na área e/ou trabalhar com **tratamento de dados**.  
+
+## 🎓 Formação Acadêmica  
+
+- **Bacharelado em Administração** - FAE Centro Universitário, 2022 - Finalizado  
+- **Bacharelado em Ciência de Dados** - FAE Centro Universitário, 2023 - Presente  
+
+## 🛠️ Habilidades  
+
+- **Linguagens:** Python, SQL, Vue.js, JavaScript, HTML, CSS  
+- **Bibliotecas:** Pandas, Polars  
+
+## 💼 Experiência Profissional  
+
+### Auxiliar de Desenvolvimento | Aliança Sul | 2024 - Presente  
+- 🖥️ Desenvolvimento de painéis com **Vue3.js**.  
+- 🔍 Tratamento de dados com **Python**.  
+- 🌐 APIs e rotas com **FastAPI**.  
+- 📦 Gerenciamento de containers com **Docker**.  
+- 🗄️ Consultas **SQL** e manipulação de banco de dados.  
+- 🛠️ Experiência com comandos básicos de **Git**.  
+
+## 📜 Certificações  
+
+- **Desenvolvimento Web com Vue.js - Udemy** (Em Curso)  
+- **Curso de Python 3 - Udemy** (Em curso)  
+- **Curso de Inglês - British and American** (Em Curso)  
+
+## 📬 Contato  
+
+Você pode me encontrar no LinkedIn: [www.linkedin.com/higor-volpi](https://www.linkedin.com/in/higor-volpi/) ou me enviar um e-mail para: [higorpv2001@gmail.com](mailto:higorpv2001@gmail.com)  

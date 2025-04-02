@@ -1,0 +1,11 @@
+---
+output: html_document
+---
+
+# Projetos pessoais.
+
+Em desenvolvimento
+
+# Projetos com a Faculdade (FAE - Centro Univesitário).
+
+Em desenvolvimento
